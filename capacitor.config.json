@@ -1,0 +1,6 @@
+{
+  "appId": "com.cuaderno.spanishtutor",
+  "appName": "Cuaderno",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
